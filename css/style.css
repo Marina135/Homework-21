@@ -1,0 +1,32 @@
+h2 {
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 45px;
+}
+
+p {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 150px;
+    text-indent: 20px;
+    font-size: 20px;
+}
+
+.navi {
+    background-color: #D2AB99 !important;
+}
+
+.contain {
+    background-color: #481D24;
+    color: white;
+    font-weight: bold !important;
+}
+
+footer {
+    background-color: #481D24;
+    padding: 60px;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: -15px;
+    margin-top: 35px;
+}
